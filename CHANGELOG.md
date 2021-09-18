@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0-beta.2](https://github.com/robinpyon/sanity-plugin-media/compare/v1.4.0-beta.1...v1.4.0-beta.2) (2021-09-18)
+
+
+### Bug Fixes
+
+* ensure that genertic tag deletion errors are caught and displayed in notifications ([4dc7b10](https://github.com/robinpyon/sanity-plugin-media/commit/4dc7b10448451d358f2f7e721b2ec56ed1944bdf))
+
 ## [1.4.0-beta.1](https://github.com/robinpyon/sanity-plugin-media/compare/v1.4.0-beta.0...v1.4.0-beta.1) (2021-09-09)
 
 ## [1.4.0-beta.0](https://github.com/robinpyon/sanity-plugin-media/compare/v1.3.1...v1.4.0-beta.0) (2021-09-09)
